@@ -1,0 +1,19 @@
+ .navbar{
+    background-color: black;
+    padding: 5px;
+
+
+ }
+ .nav-brand{
+    display: inline-block;
+    color: aqua;
+    margin-right: 100px;
+ 
+ }
+ .nav-menu{
+   margin: 0 10px;
+   display: inline-block;
+   color: aliceblue;
+
+ }
+ 
